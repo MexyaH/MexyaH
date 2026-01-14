@@ -1,5 +1,3 @@
-###
-
 <br clear="both">
 
 <div align="center">
@@ -65,8 +63,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MexyaH/MexyaH/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MexyaH/MexyaH/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MexyaH/MexyaH/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MexyaH/MexyaH/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
