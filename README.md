@@ -25,9 +25,3 @@ Scalable & Robust System Design & Architect | <br>Web & Software Application Dev
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=30&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
